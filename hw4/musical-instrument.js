@@ -1,9 +1,9 @@
 var baseTone = 60;
 
-var toneA = 4;
-var toneS = 1;
-var toneD = 4;
-var toneF = 6;
+var toneA = 0;
+var toneS = -2;
+var toneD = 0;
+var toneF = 3;
 
 var oscA, oscS, oscD, oscF;
 var playing;

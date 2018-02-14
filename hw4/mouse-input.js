@@ -97,7 +97,7 @@ function keyReleased() {
   }
 }
 
-function mouseMoved() {
+function mouseDragged() {
   var osc;
   if (mouseX < width/4) {
     osc = oscA;
